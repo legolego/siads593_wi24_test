@@ -11,7 +11,7 @@ def getPathInStreamlitDir():
 
 st.title('This is a test of Streamlit cloud from Deepnote through Github in OH today')
 
-st.markdown('Hello World!')
+st.markdown('Hello World!!')
 
 img_name = 'smile.jpg'
 img_path = getPathInStreamlitDir() / str('assets/' + img_name)
