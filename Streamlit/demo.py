@@ -9,7 +9,7 @@ def getPathInStreamlitDir():
     return Path(__file__).parents[1] / str('Streamlit/')
 
 
-st.title('This is a test of Streamlit cloud from Deepnote through Github in OH today - siads593_wi24_test')
+st.title('This is a test of Streamlit cloud from Deepnote through Github in OH today - siads593_wi24_test!')
 
 st.markdown('Hello World!!')
 
